@@ -25,7 +25,7 @@ SECRET_KEY = 'pk0t4=p!pmf8cr#2yda_anx0r9(w2msou$cgo&8@m1df%(5ef3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost',spingadus.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','spingadus.pythonanywhere.com']
 
 
 # Application definition
